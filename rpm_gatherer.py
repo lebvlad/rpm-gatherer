@@ -1,7 +1,4 @@
-import rpm
-import os
-import sys
-import shutil
+import rpm, os, sys, shutil
 
 
 def copy_file(base, path):
